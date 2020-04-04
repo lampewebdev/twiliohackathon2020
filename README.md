@@ -1,6 +1,11 @@
 
-## Frontend
+# Twilio Hackathon 2020
+### Globaly installed packages
+```bash
+sudo npm i twilio @nestjs/cli @angularcli -g
+```
 
+## Frontend
 ### Setup
 
 ```bash
@@ -10,7 +15,6 @@ npm start
 ```
 
 ## Backend
-
 ### Setup
 
 ```bash
